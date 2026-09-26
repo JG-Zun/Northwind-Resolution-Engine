@@ -1,0 +1,6 @@
+{
+  "recommended_action": "Verify the final meter read in MeterOps, remove the duplicate billing charge, and contact the customer before the payment due date.",
+  "confidence_score": 0.94,
+  "rationale": "The complaint matches a suspected duplicate charge and an unapplied final meter read.",
+  "mock": true
+}
